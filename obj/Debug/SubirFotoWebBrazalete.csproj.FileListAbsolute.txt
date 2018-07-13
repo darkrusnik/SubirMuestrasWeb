@@ -1,0 +1,12 @@
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.csprojResolveAssemblyReference.cache
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.Form1.resources
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.Properties.Resources.resources
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.csproj.GenerateResource.Cache
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.csproj.CoreCompileInputs.cache
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\bin\Debug\WinSCP.exe
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\bin\Debug\SubirFotoWebBrazalete.exe.config
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\bin\Debug\SubirFotoWebBrazalete.exe
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\bin\Debug\SubirFotoWebBrazalete.pdb
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\bin\Debug\WinSCPnet.dll
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.exe
+c:\users\rdiaz\source\repos\SubirFotoWebBrazalete\SubirFotoWebBrazalete\obj\Debug\SubirFotoWebBrazalete.pdb

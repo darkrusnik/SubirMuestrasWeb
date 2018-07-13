@@ -1,0 +1,111 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SubirFotoWebBrazalete.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConexionXcaret" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;kisin&lt;/string&gt;
+  &lt;string&gt;2012foto&lt;/string&gt;
+  &lt;string&gt;FOTEX&lt;/string&gt;
+  &lt;string&gt;10.248.1.141&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXelha" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;xhkisin&lt;/string&gt;
+  &lt;string&gt;2014foto&lt;/string&gt;
+  &lt;string&gt;XHFOTEX&lt;/string&gt;
+  &lt;string&gt;192.168.41.37&lt;/string&gt;
+  &lt;string&gt;184.172.99.66&lt;/string&gt;
+  &lt;string&gt;fotouserxelha3&lt;/string&gt;
+  &lt;string&gt;U6GMVP81_MM1&lt;/string&gt;
+  &lt;string&gt;http://192.168.41.38/XTABAY/Fotografias&lt;/string&gt;
+  &lt;string&gt;http://192.168.41.38/FotoHistorico&lt;/string&gt;
+  &lt;string&gt;photoxelha.com/httpdocs/datos/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXenotes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;xnkisin&lt;/string&gt;
+  &lt;string&gt;2014foto&lt;/string&gt;
+  &lt;string&gt;XNFOTEX&lt;/string&gt;
+  &lt;string&gt;10.248.1.222&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXoximilco" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;xmkisin&lt;/string&gt;
+  &lt;string&gt;2014foto&lt;/string&gt;
+  &lt;string&gt;XMFOTEX&lt;/string&gt;
+  &lt;string&gt;10.250.1.21&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXplor" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;xpkisin&lt;/string&gt;
+  &lt;string&gt;2014foto&lt;/string&gt;
+  &lt;string&gt;XPFOTEX&lt;/string&gt;
+  &lt;string&gt;10.1.5.83&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXplorFuego" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;xpkisin&lt;/string&gt;
+  &lt;string&gt;2014foto&lt;/string&gt;
+  &lt;string&gt;XFFOTEX&lt;/string&gt;
+  &lt;string&gt;10.248.1.92&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ConexionXenses" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;kisin&lt;/string&gt;
+  &lt;string&gt;WO37fNvKcH6eK3P5oJZW&lt;/string&gt;
+  &lt;string&gt;dbFotex&lt;/string&gt;
+  &lt;string&gt;10.1.5.73&lt;/string&gt;
+  &lt;string&gt;50.97.211.130&lt;/string&gt;
+  &lt;string&gt;fotoxcaretuser&lt;/string&gt;
+  &lt;string&gt;mGcwH762&lt;/string&gt;
+  &lt;string&gt;http://10.1.5.82:8888/Media&lt;/string&gt;
+  &lt;string&gt;http://xcshpbld14/xcfotohist2/&lt;/string&gt;
+  &lt;string&gt;fotoxcaret.com/httpdocs/fotos/2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
